@@ -2,6 +2,8 @@
   "cSpell.words": [
     "byeprint",
     "distilgpt",
-    "mypy"
+    "mypy",
+    "pyrightconfig",
+    "torchvision"
   ]
 }

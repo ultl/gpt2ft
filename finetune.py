@@ -1,10 +1,8 @@
-# source: https://github.com/omidiu/GPT-2-Fine-Tuning/blob/main/main.ipynb
-
 from byeprint import p
-from constant import dataset, tokenizer, special_tokens
 
+from constant import dataset, special_tokens, tokenizer
 
-p(dataset['train'][0])
+# p(dataset['train'][0])
 p(tokenizer)
 print(special_tokens)
 
