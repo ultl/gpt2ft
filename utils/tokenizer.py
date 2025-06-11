@@ -1,4 +1,4 @@
-class Tokenizer:
+class TokenizerHandler:
   def __init__(self, tokenizer, special_tokens=None) -> None:
     """Initialize the Tokenizer class.
 
